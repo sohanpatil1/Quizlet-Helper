@@ -8,4 +8,3 @@ Steps I follow to use the tool
 - Copy question URL on clipboard
 - Read contents from webapge
 - Copy another question URL on clipboard
-- Repeat
